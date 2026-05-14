@@ -1,1 +1,1 @@
-# FedQRFedQR
+# FedQR
